@@ -1,0 +1,50 @@
+.main-container-up {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.mi-caja-1 {
+    background-color: blueviolet;
+}
+
+.main-container-down {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+.div-container {
+    display: flex;
+}
+
+.div-container div {
+    background-color: rgb(85, 234, 95);
+}
+
+.text-container {
+    background-color: coral;
+}
+
+div {
+    background-color: aquamarine;
+    border: solid 1px fuchsia;
+    margin: 10px;
+    height: 100px;
+    width: 300px;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+    margin: 10px;
+}
