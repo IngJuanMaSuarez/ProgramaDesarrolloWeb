@@ -28,3 +28,7 @@ Hay contenido ***muy muy importante***
 ***
 
 ---
+
+Visitame en mi perfil de [Linkedin](https://www.linkedin.com/in/ingjuanmasuarez/)
+
+![Dragonite](https://i5.walmartimages.com/asr/3ef43f96-6609-4c1e-8788-91c9fd36bffd.ea1873822db4e7f8ba9c27b313f87e28.png)
